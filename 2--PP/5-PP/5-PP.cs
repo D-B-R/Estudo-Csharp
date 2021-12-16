@@ -12,6 +12,13 @@ namespace _5_PP
         {
 
             Console.WriteLine("ola");
+
+            char primeiraLetra = 'a';
+
+            Console.WriteLine(primeiraLetra);
+
+
+
             Console.ReadLine();
         }
     }
