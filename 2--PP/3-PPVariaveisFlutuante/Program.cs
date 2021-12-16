@@ -4,23 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2__PP
+namespace _3_PPVariaveisFlutuante
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int idade;
-            idade = 30;
 
-            idade = 10 + 5;
-            Console.WriteLine(idade);
 
-            idade = 10 * 5;
-            Console.WriteLine(idade);
+            double salario = 1250.50;
+            Console.WriteLine("meu salario "+ salario);
 
-            Console.WriteLine("idade é " + idade);
+
             Console.ReadLine();
+
 
         }
     }

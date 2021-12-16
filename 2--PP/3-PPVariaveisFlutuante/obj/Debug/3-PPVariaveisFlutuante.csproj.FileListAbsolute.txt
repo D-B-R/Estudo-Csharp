@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\3-PPVariaveisFlutuante\bin\Debug\3-PPVariaveisFlutuante.exe.config
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\3-PPVariaveisFlutuante\bin\Debug\3-PPVariaveisFlutuante.exe
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\3-PPVariaveisFlutuante\bin\Debug\3-PPVariaveisFlutuante.pdb
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\3-PPVariaveisFlutuante\obj\Debug\3-PPVariaveisFlutuante.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\3-PPVariaveisFlutuante\obj\Debug\3-PPVariaveisFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\3-PPVariaveisFlutuante\obj\Debug\3-PPVariaveisFlutuante.exe
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\3-PPVariaveisFlutuante\obj\Debug\3-PPVariaveisFlutuante.pdb
