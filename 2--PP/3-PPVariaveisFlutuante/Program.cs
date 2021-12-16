@@ -10,9 +10,14 @@ namespace _3_PPVariaveisFlutuante
     {
         static void Main(string[] args)
         {
-
+            double idade;
             double salario = 1250.50 / 2 ;
             Console.WriteLine("meu salario "+ salario);
+
+
+            idade = 5.0 / 2;
+            Console.WriteLine("o valor é " + idade);
+
 
             
             Console.ReadLine();
