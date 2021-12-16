@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2--PP", "2--PP\2--PP.csproj", "{0C201E72-541E-4800-B1F8-7BB2348C2647}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-PP", "2--PP\2-PP.csproj", "{0C201E72-541E-4800-B1F8-7BB2348C2647}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-PPVariaveisFlutuante", "3-PPVariaveisFlutuante\3-PPVariaveisFlutuante.csproj", "{69F980FD-5BE4-45AA-B690-12AD8EF71E5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-PP", "3-PPVariaveisFlutuante\3-PP.csproj", "{69F980FD-5BE4-45AA-B690-12AD8EF71E5E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-PP", "4-PP\4-PP.csproj", "{F16DA9D4-7BA1-4E09-B4D5-7B0EECC06A47}"
 EndProject
