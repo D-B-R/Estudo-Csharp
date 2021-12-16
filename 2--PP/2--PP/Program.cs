@@ -10,6 +10,13 @@ namespace _2__PP
     {
         static void Main(string[] args)
         {
+            int idade;
+            idade = 30;
+
+
+            Console.WriteLine(idade);
+            Console.ReadLine();
+
         }
     }
 }
