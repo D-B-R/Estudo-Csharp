@@ -14,23 +14,10 @@ namespace _4_PP
             Console.WriteLine("ola mundo, 16 - 12 - 2021 ");
             double salario = 1220.50;
 
-            int salarioEmInteiro;
-            salarioEmInteiro = (int) salario;
+            int salarioEmInteiro = (int) salario;
 
             Console.WriteLine("salario inteiro é de " + salarioEmInteiro);
 
-
-
-
-
-            
-            
-
-            
-            
-            
-            
-            
             
             Console.ReadLine();
         }

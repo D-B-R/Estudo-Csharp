@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\5-PP\bin\Debug\5-PP.exe.config
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\5-PP\bin\Debug\5-PP.exe
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\5-PP\bin\Debug\5-PP.pdb
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\5-PP\obj\Debug\5-PP.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\5-PP\obj\Debug\5-PP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\5-PP\obj\Debug\5-PP.exe
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\5-PP\obj\Debug\5-PP.pdb
