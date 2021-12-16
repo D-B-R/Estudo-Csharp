@@ -11,11 +11,10 @@ namespace _3_PPVariaveisFlutuante
         static void Main(string[] args)
         {
 
-
-            double salario = 1250.50;
+            double salario = 1250.50 / 2 ;
             Console.WriteLine("meu salario "+ salario);
 
-
+            
             Console.ReadLine();
 
 
