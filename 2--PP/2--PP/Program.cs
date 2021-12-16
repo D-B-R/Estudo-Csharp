@@ -14,7 +14,17 @@ namespace _2__PP
             idade = 30;
 
 
+            idade = 10 + 5;
+
             Console.WriteLine(idade);
+
+            idade = 10 * 5;
+
+            Console.WriteLine(idade);
+
+
+
+            Console.WriteLine("idade");
             Console.ReadLine();
 
         }
