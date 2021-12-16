@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\4-PP\bin\Debug\4-PP.exe.config
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\4-PP\bin\Debug\4-PP.exe
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\4-PP\bin\Debug\4-PP.pdb
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\4-PP\obj\Debug\4-PP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\4-PP\obj\Debug\4-PP.exe
+C:\Users\DELL\Desktop\GIT\LogicaProgramacao\Csharp\2--PP\4-PP\obj\Debug\4-PP.pdb
