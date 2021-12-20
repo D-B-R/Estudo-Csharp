@@ -20,7 +20,7 @@ namespace _5_PP
 
             Console.WriteLine(primeiraLetra);
 
-
+            primeiraLetra = primeiraLetra + 1;
 
             Console.ReadLine();
         }
