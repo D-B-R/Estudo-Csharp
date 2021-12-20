@@ -11,7 +11,7 @@ namespace _5_PP
         static void Main(string[] args)
         {
 
-            Console.WriteLine(" Teste ");
+            Console.WriteLine(" A ");
 
             char primeiraLetra = 'a';
 
