@@ -15,6 +15,9 @@ namespace _5_PP
 
             char primeiraLetra = 'a';
             Console.WriteLine(primeiraLetra);
+
+            primeiraLetra = (char) 65 ; 
+            
             Console.WriteLine(primeiraLetra);
 
 
