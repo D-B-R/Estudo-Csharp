@@ -14,7 +14,7 @@ namespace _5_PP
             Console.WriteLine(" Ola Mundo Projeto 5   ");
 
             char primeiraLetra = 'a';
-
+            Console.WriteLine(primeiraLetra);
             Console.WriteLine(primeiraLetra);
 
 
