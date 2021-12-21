@@ -13,7 +13,7 @@ namespace _5_PP
 
             Console.WriteLine(" Olá, Projeto em C#"); 
 
-            char primeiraLetra = 'a';
+            char primeiraLetra = 'b';
             Console.WriteLine(primeiraLetra);
 
             primeiraLetra = (char) 65; // convertendo para char de int 
