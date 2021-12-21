@@ -19,7 +19,6 @@ namespace _5_PP
 
             Console.WriteLine(primeiraLetra);
             primeiraLetra =  (char) (primeiraLetra + 1);
-
             Console.WriteLine(primeiraLetra);
 
 
