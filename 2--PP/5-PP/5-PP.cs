@@ -12,7 +12,6 @@ namespace _5_PP
         {
 
             Console.WriteLine(" Olá, Projeto em C#"); 
-
             char primeiraLetra = '1';
 
             Console.WriteLine(primeiraLetra);
