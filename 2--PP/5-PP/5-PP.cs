@@ -11,7 +11,7 @@ namespace _5_PP
         static void Main(string[] args)
         {
 
-            Console.WriteLine(" Olá, Projeto 5 em Csharp");
+            Console.WriteLine(" Olá, Projeto 5 em C#");
 
             char primeiraLetra = 'a';
             Console.WriteLine(primeiraLetra);
